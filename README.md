@@ -1,1 +1,1 @@
-GAN_Stydy
+GAN_Study
